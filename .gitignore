@@ -1,0 +1,7 @@
+/build/
+/dist/
+/NeuralNet.egg-info/
+/.project
+/.pydevproject
+**/__pycache__
+*.pyc
